@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tyshanprince/Documents/spring19/it279/debug-asg1/main.cpp
+iostream
+-
+myArray.h
+/Users/tyshanprince/Documents/spring19/it279/debug-asg1/myArray.h
+
+/Users/tyshanprince/Documents/spring19/it279/debug-asg1/myArray.h
+
